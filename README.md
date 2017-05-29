@@ -28,6 +28,12 @@ you can consume all the above mentioned methods through npm install
 
 (https://docs.npmjs.com/cli/install)
 
-GIT Ex : npm install "https://github.com/achieverprince/angular-library-proj.git"
+GIT Ex : 
+
+    npm install "https://github.com/achieverprince/angular-library-proj.git" --save-dev
+
+    "devDependencies":{
+    "angular-library-proj": "git+https://github.com/achieverprince/angular-library-proj.git"
+    }
 
 For SVN you may need to use NPM module "npm svn" (https://www.npmjs.com/package/npm-svn)
