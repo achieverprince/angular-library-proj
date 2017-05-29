@@ -1,7 +1,7 @@
 # angular-library-proj
 Sample Angualr(4) Library Project 
 
-**How to Take a clone and buils a angular library project** 
+**How to Take a clone and buils a angular library project:** 
 
 Just take clone/download this project.
 
@@ -10,7 +10,7 @@ Model, Service, Component into your library Project.
 
 Build and test if there is any dependency issue.
 
-**Publishing / Exposing your library project for use**
+**Publishing / Exposing your library project for use:**
 
 You can expose your angular library project as a npm module in following ways
 
@@ -22,7 +22,7 @@ Read here (https://docs.npmjs.com/cli/publish)
 
 3.Through SVN repository
 
-**Consuming Library Project** 
+**Consuming Library Project:** 
 
 you can consume all the above mentioned methods through npm install
 
