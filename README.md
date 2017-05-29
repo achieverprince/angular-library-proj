@@ -10,6 +10,8 @@ Model, Service, Component into your library Project.
 
 Build and test if there is any dependency issue.
 
+You also need to add the class references for all the newly created files in "index.ts" files in all folders "service", "model", "component" etc.
+
 **Publishing / Exposing your library project for use:**
 
 You can expose your angular library project as a npm module in following ways
